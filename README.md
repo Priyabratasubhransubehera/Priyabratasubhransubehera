@@ -1,3 +1,18 @@
+<div align="center">
+
+<!-- ANIMATED BANNER -->
+<h1 align="center">
+  Hi! I am Priyabrata Subhransu Behera
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+</h1>
+
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Priyabrata;💻+CSE+%7C+Data+Science+Enthusiast;📊+Dashboard+Developer+%7C+ML+Explorer;🚀+Hackathon+Warrior+%7C+Open+Source+Lover;🐍+Python+%7C+SQL+%7C+Tableau+%7C+Power+BI" alt="Typing SVG" />
+</a>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧑‍💻 This is Me :-
@@ -214,6 +229,7 @@ const P.Subhransu = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyabratasubhransu-behera-a3992a369)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psubhransubehera@gmail.com)
 [![instagram](https://img.shields.io/badge/instagram-FFA116?style=for-the-badge&logo=instagram&logoColor=deeppink)](https://www.instagram.com/__subhransu__behera__/profilecard/?igsh=cnUydWJ1NmNwc3U2)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyabratasubhransubehera)
 
 
 </div>
@@ -226,10 +242,7 @@ MIT License © 2026 Priyabrata Subhransu Behera
 
 ---
 
-<div align="center">
+<!-- FUN QUOTE -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
-**Built with ❤️ from Cuttack, Odisha, India 🇮🇳**
-
-*"Data is the new oil — I refine it."* ⚡
-
-</div>
+<br/><br/>
