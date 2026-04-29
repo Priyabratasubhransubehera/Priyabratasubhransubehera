@@ -44,7 +44,7 @@ const P.Subhransu = {
 - 🏆 **Hackathons** — IIT BBS · Google Dev · GIFT · SIH 2025
 - 📊 **Interned at** — CTTC (MSME, Govt. of India)
 - 🎓 **Education** — DRIEMS University, Odisha
-- ⚡ **Fun fact** — I turn complex AI into simple solutions 🎯
+- ⚡ **Fun fact** — I turn complex AI into simple solutions 
 - 📍 **Location** — Cuttack, Odisha, India
 
 </td>
