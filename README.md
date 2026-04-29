@@ -6,13 +6,13 @@
 
 ```js
 const P.Subhransu = {
-  name     : "Priyabrata Subhransu Behera",
-  location : "Cuttack, Odisha, India 🇮🇳",
-  education: "B.Tech CSE — DRIEMS University",
-  passion  : ["Data Science", "ML/DL", "Fullstack Dev"],
-  domains  : ["Analytics", "Dashboard Dev", "Hackathons"],
-  tools    : ["Python", "SQL", "React", "Three.js"],
-  available: true  // 🚀 Open for internships!
+  Name     : "Priyabrata Subhransu Behera",
+  Location : "Cuttack, Odisha, India 🇮🇳",
+  Education: "B.Tech CSE — DRIEMS University",
+  Passion  : ["Data Science", "ML/DL", "Fullstack Dev"],
+  Domains  : ["Analytics", "Dashboard Dev", "Hackathons"],
+  Tools    : ["Python", "SQL", "React", "Three.js"],
+  Available: true  // 🚀 Open for internships!
 };
 ```
 
