@@ -2,13 +2,8 @@
 
 <!-- ANIMATED BANNER -->
 <h1 align="center">
-  Hi! I am Priyabrata Subhransu Behera
+ 👋 Hi! I am Priyabrata Subhransu Behera
 </h1>
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=👋+Hey+there!+I'm+Priyabrata;💻+CSE+%7C+Data+Science+Enthusiast;📊+Dashboard+Developer+%7C+ML+Explorer;🚀+Hackathon+Warrior+%7C+Open+Source+Lover;🐍+Python+%7C+SQL+%7C+Tableau+%7C+Power+BI" 
-</a>
 
 <br/>
 
@@ -136,90 +131,9 @@ const P.Subhransu = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Experience & Hackathons
-
-<div align="center">
-
-| 🏅 Event | 🏛️ Organization | 📅 Date |
-|---|---|---|
-| 🔵 Frontend Web Hackathon — Web Athena | Google Developers · Silicon University | Apr 2026 |
-| 🏛️ Web Hackathon — Pravaah'26 | **IIT Bhubaneswar** | Feb 2026 |
-| 🏫 Codenexus Hackathon — FESTRONIX 2K26 | GIFT Autonomous College | Feb 2026 |
-| 🇮🇳 Smart India Hackathon 2025 | DRIEMS University | Sep 2025 – Present |
-| 📊 Data Analytics Intern | **CTTC (MSME, Govt. of India)** | Jun – Jul 2025 |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📜 Certifications
-
-<div align="center">
-
-![Data Analyst](https://img.shields.io/badge/✅_Data_Analyst-Certified-2ea44f?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/✅_Data_Analytics-Certified-2ea44f?style=for-the-badge)
-![Python Essential 2](https://img.shields.io/badge/✅_Python_Essential_2-Certified-2ea44f?style=for-the-badge)
-![Python Web Dev](https://img.shields.io/badge/✅_Python_Web_Developer_Masterclass-Certified-2ea44f?style=for-the-badge)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priyabratasubhransubehera&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyabratasubhransubehera&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyabratasubhransubehera&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyabratasubhransubehera&theme=tokyonight&no-frame=true&row=1&margin-w=10&no-bg=true" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- ╔══════════════════════════════════╗ -->
-<!-- ║    ➕  ACTIVITY GRAPH  ➕         ║ -->
-<!-- ╚══════════════════════════════════╝ -->
-
-<div align="center">
-<h2>➕ &nbsp; Contribution Graph &nbsp; ➕</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyabratasubhransubehera&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
-
-## 💰 You Can Help Me by Donating
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/priyabrata)
-
-> ☕ *Every coffee fuels a new project and a late-night coding session!*
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Connect with the Developer
 
@@ -232,14 +146,6 @@ const P.Subhransu = {
 
 
 </div>
-
----
-
-## 📄 License
-
-MIT License © 2026 Priyabrata Subhransu Behera
-
----
 
 <!-- FUN QUOTE -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
