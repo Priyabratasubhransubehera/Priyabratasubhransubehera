@@ -21,8 +21,8 @@ const P.Subhransu = {
   Passion  : ["Data Science", "ML/DL", "Fullstack Dev"],
   Domains  : ["Analytics", "Dashboard Dev", "Hackathons"],
   Tools    : ["Python", "SQL", "React", "Three.js"],
-  Available: true  // 🚀 Open for internships!
-};
+  Available: true  // 🚀 Open for internships! };
+
 ```
 
 <br/>
